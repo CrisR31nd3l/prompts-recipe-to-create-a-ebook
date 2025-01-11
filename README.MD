@@ -10,12 +10,9 @@
 -------
 # Projeto EBOOK Gerado por I.A.s
 
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA, para o desafio desafio “Criando um Ebook com ChatGPT & MidJourney” todos os prompts seguem abaixo. ⚡
 
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://acrobat.adobe.com/id/urn:aaid:sc:us:2357e731-04bf-4870-9bd2-354c5463fcb7" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -55,14 +52,9 @@ Bing Image：
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Leonardo AI e Bing Images
 
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
 
 <p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com ⚡ por [Cristiane Reindel](https://github.com/CrisR31nd3l)

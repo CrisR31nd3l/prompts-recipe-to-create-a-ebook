@@ -30,7 +30,7 @@ seguem abaixo.
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                                    |
+| :------: | ---------------------------------------------------------- |                                                    |
 | conteúdo | Fale sobre o Orçamento Geral da União citando as leis que baseiam o orçamento, em formato de ebook com uma linguagem voltada para os leitores de Harry Potter |
 | conteúdo | Torne o texto mais interativo |
 | conteúdo | Detalhe mais sobre como é feita a distribuição do orçamento |

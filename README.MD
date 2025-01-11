@@ -8,19 +8,9 @@
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
 -------
-
-
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
-
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -30,7 +20,8 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonardo AI](https://leonardo.ai/)
+- [Bing Images](https://www.bing.com/images/create)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -39,52 +30,37 @@ seguem abaixo.
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                                    |
+| conteúdo | Fale sobre o Orçamento Geral da União citando as leis que baseiam o orçamento, em formato de ebook com uma linguagem voltada para os leitores de Harry Potter |
+| conteúdo | Torne o texto mais interativo |
+| conteúdo | Detalhe mais sobre como é feita a distribuição do orçamento |
+| conteúdo | Fale mais sobre as emendas parlamentares |
+| agradecimentos | Desenvolva um agradecimento para o ebook de acordo com o tema orcamento geral da união com linguagem escrita para leitores de harry potter |
 
-
-Midjourney：
+Leonardo AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Create an image of a young and ambitious female wizard sitting in a grand, ornate wooden chair, poring over an ancient, leather-bound tome of magic, the cover adorned with intricate golden filigree and strange, glowing runes, set against the majestic backdrop of Hogwarts Castle at dusk, with its towers and turrets bathed in a warm, golden light, surrounded by a subtle mist that hints at the magical energy emanating from the wizard's studies, the young wizard's curly, auburn hair messy and unkempt, her bright, inquisitive eyes shining with a sense of wonder behind a pair of round, wire-rimmed spectacles, her slender fingers grasping the worn, yellowed pages of the book as she reads by the soft, warm glow of a nearby candelabra, the overall atmosphere one of quiet contemplation and mystical discovery.|
+
+Bing Image：
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| título | uma biblioteca mágica em que o teto é o céu com nuvens e há velas suspensas no ar, e uma jovem bruxa de cabelos castanhos enrolados passeia pelos corredores lendo um livro chamado O Grimório do Tesouro|
+
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonardo AI e Bing Images
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
 <p>
 
 ---

@@ -10,7 +10,7 @@
 -------
 # Projeto EBOOK Gerado por I.A.s
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA, para o desafio desafio “Criando um Ebook com ChatGPT & MidJourney”. Todos os prompts utilizados seguem abaixo. 
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA, para o desafio “Criando um Ebook com ChatGPT & MidJourney”. Todos os prompts utilizados seguem abaixo. 
 
 ## ⚡ O Grimório do Tesouro: Desvendando o Orçamento Geral da União⚡
 
